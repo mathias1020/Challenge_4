@@ -3,9 +3,9 @@
 
 This notebook is a quantitative analysis evaluating four investment funds for inclusion in client portfolios. The four funds are evaluated as follows:
 
--Relative to the broader market using the S&P500 as a proxy
--Relative volatility of the fund to the broader market as well as to one another
--Relative risk of the fund to the broader market as well as to one another as measured by standard deviation & beta
+-Relative to the broader market using the S&P500 as a proxy  
+-Relative volatility of the fund to the broader market as well as to one another  
+-Relative risk of the fund to the broader market as well as to one another as measured by standard deviation & beta  
 -Overall risk adjusted returns as measured by the Sharpe Ratios of each fund
 
 ---
